@@ -15,3 +15,6 @@ class Student:
 
 print(Student.__dict__['stu_school'])
 print(Student.__dict__)
+
+stu1 = Student()
+print(stu1.__dict__)

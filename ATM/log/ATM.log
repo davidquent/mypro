@@ -11,3 +11,5 @@
 [2021-05-30 23:24:16,471][MainThread:140604206266176][task_id:shop][shop_interface.py:28][INFO][支付成功，准备发货]
 [2021-05-30 23:25:03,716][MainThread:140604206266176][task_id:admin][admin_interface.py:17][INFO][管理员修改用户：[jacky]额度成功]
 [2021-05-30 23:25:21,658][MainThread:140604206266176][task_id:admin][admin_interface.py:28][INFO][用户david账户冻结成功]
+[2021-06-01 20:26:57,047][MainThread:140057957873472][task_id:user][user_interface.py:46][INFO][test 注册成功]
+[2021-06-01 20:27:03,120][MainThread:140057957873472][task_id:user][user_interface.py:66][INFO][用户:[test] 登录成功]
